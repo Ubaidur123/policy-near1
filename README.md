@@ -17,7 +17,7 @@
   <li><strong>Account information:</strong> email address and password, used to create and secure your account (via Firebase Authentication).</li>
   <li><strong>Profile information:</strong> your display name and your child's age, which you provide voluntarily to personalize your experience and connect with relevant community groups.</li>
   <li><strong>Community messages:</strong> any messages you post in community chat rooms, visible to other signed-in parents in that room.</li>
-  <li><strong>Location data:</strong> if you enable location features, we use approximate location to help connect you with nearby parents. Location is not shared with other users beyond what's needed for this matching feature.</li>
+  
 </ul>
 
 <h2>How We Use Your Information</h2>
